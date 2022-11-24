@@ -17,6 +17,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📧 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Angélica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelica-pedroso/)](https://www.linkedin.com/in/angelica-pedroso/)
+[![Linkedin Badge](https://img.shields.io/badge/-Angélica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelica-pedroso/)](https://www.linkedin.com/in/angelicapedroso/)
 
 ![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoangelicapedroso@gmail.com)
